@@ -1,0 +1,129 @@
+#include "..\missionDescription\master.hpp"
+
+OnLoadName = $STR_isladuala_mission_info_isladuala_mapname_short_text;
+OnLoadMission = $STR_antistasi_mission_info_isladuala_blurb_text;
+briefingName = $STR_antistasi_mission_info_isladuala_mapname_text;
+overviewText = $STR_antistasi_mission_info_Altis_description_text;
+loadScreen = "Pictures\Mission\pic.jpg"; // NB, this will resolve from root
+overviewPicture = "Pictures\Mission\pic.jpg"; // NB, this will resolve from root
+
+class CfgDiscordRichPresence 
+{
+    applicationID="819852407265034260";
+    defaultDetails="";
+    defaultState="";
+    defaultLargeImageKey="isladuala3";
+    defaultLargeImageText="Antistasi Plus - Isla Duala";
+    defaultSmallImageKey="arma_3_logo";
+    defaultSmallImageText="Arma 3 Custom Scenario";
+    useTimeElapsed=1;
+};
+
+class CfgNotifications
+{
+    #include "..\missionDescription\CfgNotificationsContents.hpp"
+};
+
+class CfgDebriefing {
+    #include "..\missionDescription\CfgDebriefingContents.hpp"
+};
+
+class CfgSounds {
+    sounds[] = {siren_sound, voice_alert};
+
+    class siren_sound {
+        name = "Siren Sound";
+        sound[] = {"\sound\siren_sound.ogg", 1, 1};
+        titles[] = {};
+    };
+
+    class voice_alert {
+        name = "Voice Alert";
+        sound[] = {"\sound\voice_alert.ogg", 1, 1};
+        titles[] = {};
+    };
+};
+
+class RscTitles
+{
+    class AlarmRed
+    {    
+        idd = 100;
+        duration = 999999;  // duration не используется
+        fadeIn = 0.5;
+        fadeOut = 0.5;
+
+        class controls
+        {
+            class IconRed
+            {    
+                idc = 1001;
+                type = 0; 
+                style = 48; 
+                x = safeZoneX + safeZoneW - 0.2; 
+                y = safeZoneY + safeZoneH / 2 - 0.05; 
+                w = 0.07; 
+                h = 0.07; 
+                font = "EtelkaNarrowMediumPro"; 
+                sizeEx = 0.1 / 2; 
+                colorBackground[] = {0, 0, 0, 0}; 
+                colorText[] = {1, 1, 1, 1}; 
+                text = "icons\red.paa"; // Красная иконка
+            };  
+        };    
+    };
+
+    class AlarmYellow
+    {    
+        idd = 101;
+        duration = 0.5;  // duration для моргания
+        fadeIn = 0.5;
+        fadeOut = 0.5;
+
+        class controls
+        {
+            class IconYellow
+            {    
+                idc = 1002;
+                type = 0; 
+                style = 48; 
+                x = safeZoneX + safeZoneW - 0.2; 
+                y = safeZoneY + safeZoneH / 2 - 0.05; 
+                w = 0.07; 
+                h = 0.07; 
+                font = "EtelkaNarrowMediumPro"; 
+                sizeEx = 0.1 / 2; 
+                colorBackground[] = {0, 0, 0, 0}; 
+                colorText[] = {1, 1, 1, 1}; 
+                text = "icons\yellow.paa"; // Желтая иконка
+            };  
+        };    
+    };
+
+    class AlarmGreen
+    {    
+        idd = 102;
+        duration = 5;  // Зеленая иконка будет показываться 5 секунд
+        fadeIn = 0.5;
+        fadeOut = 0.5;
+
+        class controls
+        {
+            class IconGreen
+            {    
+                idc = 1003;
+                type = 0; 
+                style = 48; 
+                x = safeZoneX + safeZoneW - 0.2; 
+                y = safeZoneY + safeZoneH / 2 - 0.05; 
+                w = 0.07; 
+                h = 0.07;
+                font = "EtelkaNarrowMediumPro"; 
+                sizeEx = 0.1 / 2; 
+                colorBackground[] = {0, 0, 0, 0}; 
+                colorText[] = {1, 1, 1, 1}; 
+                text = "icons\green.paa"; // Зеленая иконка
+            };  
+        };    
+    };
+};
