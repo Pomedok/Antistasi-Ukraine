@@ -1,5 +1,5 @@
 /*
-	Author: Socrates
+	Author: Prometey
 	Spawns a supply drop of desired object.
 
 	Arguments(s):

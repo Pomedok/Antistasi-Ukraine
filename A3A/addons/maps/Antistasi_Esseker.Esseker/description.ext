@@ -13,7 +13,7 @@ class CfgDiscordRichPresence
     defaultDetails="";
     defaultState="";
     defaultLargeImageKey="esseker";
-    defaultLargeImageText="Antistasi Plus - Collapse";
+    defaultLargeImageText="Antistasi Ukraine - Collapse";
     defaultSmallImageKey="arma_3_logo";
     defaultSmallImageText="Arma 3 Custom Scenario";
     useTimeElapsed=1;

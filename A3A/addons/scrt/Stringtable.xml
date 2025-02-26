@@ -4025,9 +4025,9 @@
                 <Russian>Время до поднятия игрока на ноги (в секундах)</Russian>
             </Key>
             <Key ID="STR_params_antistasi_plus">
-                <Original>ANTISTASI PLUS PARAMETERS</Original>
-                <Russian>ПАРАМЕТРЫ ANTISTASI PLUS</Russian>
-                <Chinesesimp>ANTISTASI PLUS参数</Chinesesimp>
+                <Original>Antistasi Ukraine PARAMETERS</Original>
+                <Russian>ПАРАМЕТРЫ Antistasi Ukraine</Russian>
+                <Chinesesimp>Antistasi Ukraine参数</Chinesesimp>
                 <Korean>안티스타시 플러스 매개변수</Korean>
             </Key>
             <Key ID="STR_params_timeMultiplier">
@@ -6183,9 +6183,9 @@
                 <Korean>플레이어와 적과의 거리에 영향을 미칩니다. 주의하여 사용하십시오. 성능이 저하된다고 생각되면 더 낮은 거리로 설정하십시오.</Korean>
             </Key>
             <Key ID="STR_commander_menu_about_text">
-                <Original>Antistasi Plus - %1, Version: %2, Unlock Weapon Number: %3, Limited Fast Travel: %4, Rivals: %5, Time since GC: %6</Original>
-                <Russian>Antistasi Plus - %1, Версия: %2, Кол-во орудий для разблок-ки: %3, Ограниченное быстрое перемещение по карте: %4, Инсургенты: %5, Прошло времени с момента сборки мусора: %6</Russian>
-                <Chinesesimp>Antistasi Plus - %1, 版本: %2, 解锁武器数量: %3, 是否限制快速旅行: %4, 对手: %5, GC之后经过的时间: %6</Chinesesimp>
+                <Original>Antistasi Ukraine - %1, Version: %2, Unlock Weapon Number: %3, Limited Fast Travel: %4, Rivals: %5, Time since GC: %6</Original>
+                <Russian>Antistasi Ukraine - %1, Версия: %2, Кол-во орудий для разблок-ки: %3, Ограниченное быстрое перемещение по карте: %4, Инсургенты: %5, Прошло времени с момента сборки мусора: %6</Russian>
+                <Chinesesimp>Antistasi Ukraine - %1, 版本: %2, 解锁武器数量: %3, 是否限制快速旅行: %4, 对手: %5, GC之后经过的时间: %6</Chinesesimp>
                 <Korean>안티스타시 플러스 - %1, 버전: %2, 무기 언락 수: 53, 빠른 이동 제한: %4 라이벌: %5, 쓰레기 청소 이후 지난 시간:%6</Korean>
             </Key>
             <Key ID="STR_commander_menu_skill_level_title">
@@ -6870,9 +6870,9 @@
         </Container>
         <Container name="credits_generic">
             <Key ID="STR_antistasi_credits_authors_plus">
-                <Original>Antistasi Plus Authors:</Original>
-                <Russian>Авторы Antistasi Plus:</Russian>
-                <Chinesesimp>Antistasi Plus 作者：</Chinesesimp>
+                <Original>Antistasi Ukraine Authors:</Original>
+                <Russian>Авторы Antistasi Ukraine:</Russian>
+                <Chinesesimp>Antistasi Ukraine 作者：</Chinesesimp>
                 <Korean>안티스타시 플러스 제작자:</Korean>
             </Key>
             <Key ID="STR_antistasi_credits_authors">
@@ -10288,9 +10288,9 @@
                 <Korean>주    의</Korean>
             </Key>
             <Key ID="STR_A3A_Dialogs_create_dialog_save_personal_save_1">
-                <Original>Antistasi Plus has a custom save system.&lt;br/&gt;&lt;br/&gt;</Original>
-                <Russian>Antistasi Plus использует нестандартную систему сохранений.&lt;br/&gt;&lt;br/&gt;</Russian>
-                <Chinesesimp>Antistasi Plus有一个自定义的保存系统。&lt;br/&gt;&lt;br/&gt;</Chinesesimp>
+                <Original>Antistasi Ukraine has a custom save system.&lt;br/&gt;&lt;br/&gt;</Original>
+                <Russian>Antistasi Ukraine использует нестандартную систему сохранений.&lt;br/&gt;&lt;br/&gt;</Russian>
+                <Chinesesimp>Antistasi Ukraine有一个自定义的保存系统。&lt;br/&gt;&lt;br/&gt;</Chinesesimp>
                 <Korean>안티스타시 플러스는 사용자 지정 저장 시스템을 가졌습니다.&lt;br/&gt;&lt;br/&gt;</Korean>
             </Key>
             <Key ID="STR_A3A_Dialogs_create_dialog_save_personal_save_2">

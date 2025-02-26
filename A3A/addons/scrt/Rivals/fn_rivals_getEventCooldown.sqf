@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Returns rivals event cooldown depending on current balance scale/players.
 
 Return Value:

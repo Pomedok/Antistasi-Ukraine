@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
    Returns all near friendly AI capable units. 
    Local only.
 

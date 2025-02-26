@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Removes military administration from active pool and puts it into captured miladmins array.
 
 Arguments:

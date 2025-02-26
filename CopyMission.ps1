@@ -3,11 +3,11 @@ $PSDefaultParameterValues['*:ErrorAction']='Stop'
 
 $terrain=$args[0]
 
-Write-Host "Copying mission of Antistasi Plus - $($terrain) to profile folder..."
+Write-Host "Copying mission of Antistasi Ukraine - $($terrain) to profile folder..."
 
 $path = ".\A3A\Addons\maps\Antistasi_$($terrain).$($terrain)"
 
-$buildFolder = $env:userprofile + "\Documents\Arma 3 - Other Profiles\Socrates\missions";
+$buildFolder = $env:userprofile + "\Documents\Arma 3 - Other Profiles\Prometey\missions";
 
 $devFolderItem = Get-ChildItem -Path $path | Select-Object -First 1;
 $devFolder = $devFolderItem.parent;

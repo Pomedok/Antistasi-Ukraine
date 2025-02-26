@@ -68,7 +68,7 @@ switch (toLowerANSI worldName) do {
 	    _title = localize "STR_antistasi_mission_info_sumava_mapname_text";
 	};
 	default {
-	    _title = "Antistasi Plus";
+	    _title = "Antistasi Ukraine";
 	};
 };
 

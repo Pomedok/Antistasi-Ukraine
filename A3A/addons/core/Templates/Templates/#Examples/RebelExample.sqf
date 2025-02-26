@@ -48,7 +48,7 @@ private _hasContact = "enoch" in A3A_enabledDLC;
 ["breachingExplosivesTank", []] call _fnc_saveToTemplate;
 
 //////////////////////////////////////
-//       Antistasi Plus Stuff       //
+//       Antistasi Ukraine Stuff       //
 //////////////////////////////////////
 
 ["lootCrate", ""] call _fnc_saveToTemplate;

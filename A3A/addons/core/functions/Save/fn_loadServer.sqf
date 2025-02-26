@@ -38,7 +38,7 @@ if (isServer) then {
 	["bombRuns"] call A3A_fnc_getStatVariable;
 	["jna_dataList"] call A3A_fnc_getStatVariable;
 
-	//Antistasi Plus variables
+	//Antistasi Ukraine variables
 	["watchpostsFIA"] call A3A_fnc_getStatVariable; publicVariable "watchpostsFIA";
 	["roadblocksFIA"] call A3A_fnc_getStatVariable; publicVariable "roadblocksFIA";
 	["aapostsFIA"] call A3A_fnc_getStatVariable; publicVariable "aapostsFIA";

@@ -91,7 +91,7 @@ DECLARE_SERVER_VAR(A3A_arsenalLimits, createHashMap);
 //Time of last garbage clean notification
 DECLARE_SERVER_VAR(A3A_lastGarbageCleanTimeNote, serverTime);
 
-//Antistasi Plus variables
+//Antistasi Ukraine variables
 
 //Override uniforms on rebel loadouts
 DECLARE_SERVER_VAR(randomizeRebelLoadoutUniforms, true);

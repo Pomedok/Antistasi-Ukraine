@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
    Posesses nearest AI unit with the ability to help player by his own hands (helps when AI got stuck somewhere). 
    Local only.
 

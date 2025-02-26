@@ -92,7 +92,7 @@ private _destroyedPositions = destroyedBuildings apply { getPosATL _x };
 ["aggressionOccupants", [aggressionLevelOccupants, aggressionStackOccupants]] call A3A_fnc_setStatVariable;
 ["aggressionInvaders", [aggressionLevelInvaders, aggressionStackInvaders]] call A3A_fnc_setStatVariable;
 
-//Antistasi Plus variables
+//Antistasi Ukraine variables
 ["supportPoints", supportPoints] call A3A_fnc_setStatVariable;
 ["areOccupantsDefeated", areOccupantsDefeated] call A3A_fnc_setStatVariable;
 ["areInvadersDefeated", areInvadersDefeated] call A3A_fnc_setStatVariable;

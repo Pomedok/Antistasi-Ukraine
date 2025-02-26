@@ -1,5 +1,5 @@
 /*
-    By Socrates, based on Jeroen Notenbomer arsenal code
+    By Prometey, based on Jeroen Notenbomer arsenal code
 
 	overwrites default arsenal script, original arsenal needs to be running first in order to initilize the display.
 

@@ -13,7 +13,7 @@ class CfgDiscordRichPresence
     defaultDetails="";
     defaultState="";
     defaultLargeImageKey="isladuala3";
-    defaultLargeImageText="Antistasi Plus - Isla Duala";
+    defaultLargeImageText="Antistasi Ukraine - Isla Duala";
     defaultSmallImageKey="arma_3_logo";
     defaultSmallImageText="Arma 3 Custom Scenario";
     useTimeElapsed=1;

@@ -1,5 +1,5 @@
 /*
-    Author: Socrates
+    Author: Prometey
     Returns an array with objects loaded with logistics.
 
 

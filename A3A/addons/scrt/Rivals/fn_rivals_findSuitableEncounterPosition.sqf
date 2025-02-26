@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Finds position for encounter for encounter depending on Rivals activity level, random.
 
 Return Value:

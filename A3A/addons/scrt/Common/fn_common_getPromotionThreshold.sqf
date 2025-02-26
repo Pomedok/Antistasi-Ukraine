@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
    Returns how many points required to get the rank. 
 
 Parameters:

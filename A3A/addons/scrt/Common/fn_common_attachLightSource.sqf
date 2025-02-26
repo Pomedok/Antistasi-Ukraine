@@ -1,4 +1,4 @@
-//	Author: Socrates
+//	Author: Prometey
 // 
 //	Description:
 //	Attachs the light to an object.

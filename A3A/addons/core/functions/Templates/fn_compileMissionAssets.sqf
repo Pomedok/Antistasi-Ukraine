@@ -115,7 +115,7 @@ setVar("staticAA", OccAndInv("staticAA") + Reb("staticAA") + ("STATICAA" call _f
 setVar("staticAT", OccAndInv("staticAT") + Reb("staticAT") + ("STATICAT" call _fnc_extractMarketClasses));
 setVar("staticMGs", OccAndInv("staticMGs") + Riv("staticLowWeapons") + Reb("staticMGs") + ("STATICMG" call _fnc_extractMarketClasses));
 
-//Antistasi Plus stuff
+//Antistasi Ukraine stuff
 setVar("vehiclesAirborne", OccAndInv("vehiclesAirborne"));
 setVar("vehiclesLightTanks", OccAndInv("vehiclesLightTanks"));
 

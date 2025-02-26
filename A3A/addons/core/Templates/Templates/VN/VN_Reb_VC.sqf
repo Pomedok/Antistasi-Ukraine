@@ -53,7 +53,7 @@
 ["breachingExplosivesTank", [["vn_mine_satchel_remote_02_mag", 1], ["vn_mine_m112_remote_mag", 2]]] call _fnc_saveToTemplate;
 
 //////////////////////////////////////
-//       Antistasi Plus Stuff       //
+//       Antistasi Ukraine Stuff       //
 //////////////////////////////////////
 
 ["blackMarketStock", [

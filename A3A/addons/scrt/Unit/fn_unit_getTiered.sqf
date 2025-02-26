@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Extracts unit/group from tiered faction variable with war level checks.
 
 

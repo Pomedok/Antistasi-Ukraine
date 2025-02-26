@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Searches for empty car that is applicable for car demo charge.
 
 Arguments:

@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Gets time limit with time multiplier and datetime usage.
 
 Arguments:

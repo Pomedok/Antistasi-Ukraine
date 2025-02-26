@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates, based on Wurzel0701's aggro code
+Maintainer: Prometey, based on Wurzel0701's aggro code
     Reduces rivals activity by given amount of activity.
 
 Arguments:

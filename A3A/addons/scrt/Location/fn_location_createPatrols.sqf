@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Creates patrols for any outpost type. 
 	Rough copy of typical patrol function from createAiOutposts/Airplane/Resource.
 

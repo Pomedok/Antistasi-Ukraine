@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Tries to find position for vehicle on road or in the wild, so it can be safely spawned there.
 
 Arguments:

@@ -1,4 +1,4 @@
-//	Author: Socrates
+//	Author: Prometey
 // 
 //	Description:
 //	Finds all near players.

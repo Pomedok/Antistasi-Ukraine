@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates, based on Wurzel0701's aggro code
+Maintainer: Prometey, based on Wurzel0701's aggro code
     Rolls probability of something happening tied to current rivals inactivity.
 
 Arguments:

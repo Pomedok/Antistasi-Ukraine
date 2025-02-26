@@ -1,5 +1,5 @@
 /*
-Author: Barbolani, DoomMetal, MeltedPixel, Bob-Murphy, Wurzel0701, Socrates
+Author: Barbolani, DoomMetal, MeltedPixel, Bob-Murphy, Wurzel0701, Prometey
     Sets the units traits (camouflage, medic, engineer) for the selected role of the player
     THIS FUNCTION DEPENDS ON ONLY THE DEFAULT COMMANDER HAVING A ROLE DESCRIPTION!
 

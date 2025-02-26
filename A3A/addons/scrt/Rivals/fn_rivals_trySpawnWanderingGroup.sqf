@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Spawns wandering group of rivals in the.
 
 Arguments:

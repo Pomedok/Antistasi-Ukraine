@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Applies car demo charge on selected vehicle.
 
 Arguments:

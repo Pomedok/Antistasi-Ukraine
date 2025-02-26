@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Returns current size of rivals radius.
 
 Return Value:

@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Returns locations players know about (or don't).
 
 Arguments:

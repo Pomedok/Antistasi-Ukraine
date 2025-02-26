@@ -1,6 +1,6 @@
 /*
  * File: fn_loadRivals.sqf
- * Author: Socrates (based on Spoffy's code)
+ * Author: Prometey (based on Spoffy's code)
  * Description:
  *    Loads a rivals faction definition file.
  * Params:

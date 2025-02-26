@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates, based on Wurzel0701's aggro code
+Maintainer: Prometey, based on Wurzel0701's aggro code
     Calculates the current rival activity values and levels.
 
 Arguments:

@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Chooses group for spawn depending on current inactivityLevel. Lower the value - better rivals group will be chosen.
 
 Return Value:

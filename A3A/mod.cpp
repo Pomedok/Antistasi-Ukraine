@@ -1,17 +1,17 @@
 #if __has_include("\x\A3A\addons\core\script_component.hpp")
 #include "\x\A3A\addons\core\script_component.hpp"
-name = QUOTE(Antistasi Plus);
+name = QUOTE(Antistasi Ukraine);
 logo = QPATHTOFOLDER(Pictures\antistasi_plus_logo_sw.paa);
 logoOver = QPATHTOFOLDER(Pictures\antistasi_plus_logo.paa);
 logoSmall = QPATHTOFOLDER(Pictures\antistasi_plus_logo_small.paa);
 picture = QPATHTOFOLDER(Pictures\antistasi_plus_overview.paa);
 #else
-name = "Antistasi Plus";
+name = "Antistasi Ukraine";
 #endif
-author = "Socrates";
+author = "Prometey";
 description = "";
-tooltip = "Antistasi Plus";
-tooltipOwned = "Antistasi Plus";
+tooltip = "Antistasi Ukraine";
+tooltipOwned = "Antistasi Ukraine";
 overview = "<br/><t align='center' size='0.75'> An Arma 3 persistent multiplayer scenario about guerilla warfare tactics. Fork of Antistasi Community Version focused on expanding player's capabilities and introducing new gameplay features. </t><br/><br/>";
 actionName = "GitHub";
 action = "https://github.com/igorkis-scrts/A3-Antistasi-Plus";

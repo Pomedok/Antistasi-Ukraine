@@ -1,5 +1,5 @@
 /*
-	author: Socrates
+	author: Prometey
 	description: Adds auto looter action to vehicle.
 	returns: nothing
 */

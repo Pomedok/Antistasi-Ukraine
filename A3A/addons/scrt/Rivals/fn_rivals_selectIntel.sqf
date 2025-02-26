@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Randomly selects an intel, executes code tied to it, then returns message about corresponding intel.
 
 Return Value:

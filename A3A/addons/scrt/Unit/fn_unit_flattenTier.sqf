@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Wrapper for flatten function, which will return tiered group array with only current tier units.
 
 Arguments:

@@ -1,5 +1,5 @@
 /*
-Author: Spoffy, jaj22, Håkon, Socrates
+Author: Spoffy, jaj22, Håkon, Prometey
 Description:
     Heals rebel units near HQ, restores there stamina, and allows units and vehicles to go undercover again.
     Restores fuel/repair/ammo if garage has corresponding sources.

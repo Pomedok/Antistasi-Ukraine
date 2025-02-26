@@ -2,7 +2,7 @@
 FIX_LINE_NUMBERS()
 
 /*
-	author: Socrates
+	author: Prometey
 	description: Loots all the bodies and crates near the vehicle or loot crate.
 	returns: nothing
 */

@@ -1,5 +1,5 @@
 /*
-Author: Socrates
+Author: Prometey
 Description:
     Returns garrison limit for an outpost.
 

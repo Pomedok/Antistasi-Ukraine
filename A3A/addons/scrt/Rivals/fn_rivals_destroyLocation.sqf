@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Destroy locations so it won't be used as base of operations by Rivals.
 
 Return Value:

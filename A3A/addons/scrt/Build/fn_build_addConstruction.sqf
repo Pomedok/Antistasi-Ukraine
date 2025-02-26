@@ -1,6 +1,6 @@
 /*
     Author: 
-        Socrates
+        Prometey
     [Description]
         Creates object and saves it in persistent constructions list. That list will be stored in save file.
         Also, it maintains LIFO principle.

@@ -56,7 +56,7 @@ if (_hasWs) then {
 ["staticAA", _staticAA] call _fnc_saveToTemplate;
 
 //////////////////////////////////////
-//       Antistasi Plus Stuff       //
+//       Antistasi Ukraine Stuff       //
 //////////////////////////////////////
 
 //classname, price, type, availability condition

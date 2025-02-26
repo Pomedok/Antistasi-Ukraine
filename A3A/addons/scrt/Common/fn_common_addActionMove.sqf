@@ -1,5 +1,5 @@
 /*
-	author: Socrates
+	author: Prometey
 	description: Adds move action to vehicle.
 	returns: nothing
 */

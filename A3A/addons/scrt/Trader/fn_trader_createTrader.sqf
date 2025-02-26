@@ -1,4 +1,4 @@
-//	Author: Socrates
+//	Author: Prometey
 // 
 //	Description:
 //	Creates trader on position.

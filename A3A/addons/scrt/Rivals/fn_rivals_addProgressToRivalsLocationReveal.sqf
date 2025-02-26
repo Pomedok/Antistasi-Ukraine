@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Adds or reduces next rivals location reveal so players can attack it.
 
 Arguments:

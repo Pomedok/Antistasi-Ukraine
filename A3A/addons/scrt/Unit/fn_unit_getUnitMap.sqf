@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Returns base unit map (used only by fn_compatibilityLoadFaction).
 	This needed to retain BI unit config traits that otherwise would be lost and basically makes some difference
 	for example, between SF and other types of soldiers.

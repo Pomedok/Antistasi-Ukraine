@@ -2905,15 +2905,15 @@
         </Container>
         <Container name="setup_dialog">
             <Key ID="STR_antistasi_dialogs_setup_titlebar">
-                <Original>ANTISTASI PLUS SETUP</Original>
-                <Czech>NASTAVENÍ ANTISTASI PLUS</Czech>
-                <French>CONFIGURATION D'ANTISTASI PLUS</French>
-                <Italian>CONFIGURAZIONE ANTISTASI PLUS</Italian>
+                <Original>Antistasi Ukraine SETUP</Original>
+                <Czech>NASTAVENÍ Antistasi Ukraine</Czech>
+                <French>CONFIGURATION D'Antistasi Ukraine</French>
+                <Italian>CONFIGURAZIONE Antistasi Ukraine</Italian>
                 <Korean>안티스타시 플러스 설정</Korean>
-                <Russian>НАСТРОЙКА ANTISTASI PLUS</Russian>
+                <Russian>НАСТРОЙКА Antistasi Ukraine</Russian>
                 <Polish>KONFIGURACJA ANTYSTASI PLUS</Polish>
-                <Portuguese>ANTISTASI PLUS SETUP</Portuguese>
-                <Chinesesimp>ANTISTASI PLUS设置</Chinesesimp>
+                <Portuguese>Antistasi Ukraine SETUP</Portuguese>
+                <Chinesesimp>Antistasi Ukraine设置</Chinesesimp>
             </Key>
             <Key ID="STR_antistasi_dialogs_setup_loadgame_tab_button">
                 <Original>Load Game</Original>

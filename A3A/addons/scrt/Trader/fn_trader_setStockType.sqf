@@ -1,4 +1,4 @@
-//	Author: Socrates
+//	Author: Prometey
 // 
 //	Description:
 //	Sets trader stock based on current modset.

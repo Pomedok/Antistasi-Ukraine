@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates, based on Antistasi Community's aggro code
+Maintainer: Prometey, based on Antistasi Community's aggro code
     Update rivals activity with each loop's tick (one minute).
 
 Return Value:

@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
    Adds salary to current rebel. 
 
 Parameters:

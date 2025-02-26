@@ -44,7 +44,7 @@ private _hasContact = "enoch" in A3A_enabledDLC;
 ["breachingExplosivesTank", [["SatchelCharge_Remote_Mag", 1], ["DemoCharge_Remote_Mag", 2]]] call _fnc_saveToTemplate;
 
 //////////////////////////////////////
-//       Antistasi Plus Stuff       //
+//       Antistasi Ukraine Stuff       //
 //////////////////////////////////////
 
 //classname, price, type, availability condition

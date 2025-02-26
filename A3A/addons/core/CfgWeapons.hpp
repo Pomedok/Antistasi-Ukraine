@@ -5,7 +5,7 @@ class CfgWeapons
 
     class A3AP_SelfReviveKit: ItemCore
     {
-        author = "Socrates";
+        author = "Prometey";
         displayName = "$STR_A3AP_items_crrk_name";
         model = "\A3\Props_F_Orange\Humanitarian\Camps\FirstAidKit_01_closed_F.p3d";
         scope = 2;      

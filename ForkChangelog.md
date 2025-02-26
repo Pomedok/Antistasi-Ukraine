@@ -303,8 +303,8 @@
   - Cell leaders may drop military-grade laptop on death or surrender with it. Laptop has some valuable data that can be obtained, decrypted and used by rebels
   - Rivals units can be imprisoned or interrogated 
   - Separate activity counter in the top information bar which indicates constantly rising process of rivals activity with different actions on each activity level, rebels have to fight the process to reduce spreading of rival incursion and keep things more or less normal
-  - Enable Rivals mission parameter - players may want to play classic Antistasi Plus experience so they can disable opposing insurgent faction entirely (requires new game start)
-- Nearby vehicles can be refueled, rearmed and repaired via vehicle box if rebels have corresponding sources (repair/ammo/fuel trucks) stored in the garage (as it was pre-Antistasi Plus 1.7/pre-Antistasi Community Version 2.5.0)
+  - Enable Rivals mission parameter - players may want to play classic Antistasi Ukraine experience so they can disable opposing insurgent faction entirely (requires new game start)
+- Nearby vehicles can be refueled, rearmed and repaired via vehicle box if rebels have corresponding sources (repair/ammo/fuel trucks) stored in the garage (as it was pre-Antistasi Ukraine 1.7/pre-Antistasi Community Version 2.5.0)
 - Police stations overhaul with the purpose to give another early game strategy and another way to obtain basic military gear
   - New marker type - Military Administration
   - New "Seize Military Administration" task type
@@ -327,7 +327,7 @@
 - Rebel Garrison Limit mission parameter - how many units can be in garrison, 1.5x of value for airports, 1.25 for milbases, 0.5x for resources and factories
 - New Time multiplier parameter values - 1:8 (Day = 3 Hours) and 1:4 (Day = 6 Hours)
 - Added 10 value to "Number of the same item required to unlock" mission parameter as new minimal value for it
-- Flag-icon for each Antistasi Plus variant, it will be shown at mission start
+- Flag-icon for each Antistasi Ukraine variant, it will be shown at mission start
 - AI factions will use animation sources on their supported vehicles too (SLAT cages, camo nets, different layout of vehicle doors etc)
 - (Western Sahara) Tura rebel faction
 - (Vanilla) NATO, CSAT, AAF factions
@@ -337,10 +337,10 @@
 
 ### Changes
 - 3.0 Community Version integration (Garage update, fuel stations, many improvements and fixes of various gameplay systems, migration to singular mod package etc)
-- Antistasi Plus codebase migration to singular mod package environment, general refactoring of entire AP's codebase - microoptimisations here and there, unused code cleanup, almost every Plus feature was ported and reviewed during the port, general stability and performance improvements
+- Antistasi Ukraine codebase migration to singular mod package environment, general refactoring of entire AP's codebase - microoptimisations here and there, unused code cleanup, almost every Plus feature was ported and reviewed during the port, general stability and performance improvements
 - Vehicle Black Market new Community Version's UI, less strict and more dynamic approach to vehicle stock, different conditions to unlock certain vehicle types (war tiers, seaports, airbases etc), neutral vehicle skin appliance where possible, remade black market stocks from scratch for each modset
 - Faction descriptions on hover (Factions tab in startup menu)
-- Сhanged Commander/Rebel menu hotkey from CTRL + T to TAB, added ability to customize it's keybind via general Configure->Controls->Antistasi Plus menu
+- Сhanged Commander/Rebel menu hotkey from CTRL + T to TAB, added ability to customize it's keybind via general Configure->Controls->Antistasi Ukraine menu
 - Added new construction variants for each category
 - Officers and traitors may have intel (it adds them to possible intel unit pool, increases their commanding and courage skills)
 - Added vehicles from Vehicle Black Market to various armor pools, so enemy would react adequately on these kinds of vehicles, these vehicles could be sold via ordinary commander action etc
@@ -439,7 +439,7 @@
 - (3CB Factions) Added LADA, SUV, Hilux PKM logistic nodes
 
 ### Removals
-- Other terrains are not yet supported, many of them will be ported in the next versions of Antistasi Plus
+- Other terrains are not yet supported, many of them will be ported in the next versions of Antistasi Ukraine
 - Faction Defeat mission parameter has been removed, Occupants and Invaders can be always fully defeated
 - Removed PVP
 - Removed "Kill Collaborationist" mission type (Military Administration feature basically integrated that mission into general gameplay loop)
@@ -772,7 +772,7 @@
 
 ### Changes
 - Interrogations and recon planes reveal positions to AI rebels too
-- Separate save ID for Antistasi Plus (prevents Antistasi Community Version saves loading which does not work on Antistasi Plus)
+- Separate save ID for Antistasi Ukraine (prevents Antistasi Community Version saves loading which does not work on Antistasi Ukraine)
 - Radioman call support time reduced to 45 seconds, cooldown to 15 minutes
 - Changed respawn key from E to R when laying unconscious
 - Fixed inability to move HQ assets on HQ border
@@ -982,7 +982,7 @@
 - (Altis) removed some outposts to give more variety in possible start positions
 - (Chernarus 2020) removed some outposts and static objects to make some overpopulated with objects areas less populated
 - (2.4.1 CV) Removed Antistasi Units Mod support
-- (2.4.1 CV) Disabled LootToCrate from Community Version (2.4.1) as it conflicts with Antistasi Plus's loot system
+- (2.4.1 CV) Disabled LootToCrate from Community Version (2.4.1) as it conflicts with Antistasi Ukraine's loot system
 
 ## 1.4.2
 - Added Assign as Loot Vehicle commander action (Y menu, ability to give autoloot capabilities to any wheeled or tracked vehicle)
@@ -1131,7 +1131,7 @@
 - Gather Loot systemChat messages will be transmitted only to players in proximity, not everyone (as it was before)
 - Sum Similar Weapons To Unlock mission parameter (sums same weapons with different color to unlock them all to use without limit, optional, mission parameter)
 - Bunkers on AT roablocks replaced with sandbags since ordinary sandbag bunkers rendered them useless due to blocking line of sight
-- Disabled FFAA and 3CB support since they are not compatible with any of Antistasi Plus features
+- Disabled FFAA and 3CB support since they are not compatible with any of Antistasi Ukraine features
 - Airports will be guarded by vehicles and helicopters (on some cases)
 - SystemChat log messages (separate mission parameter, debug purposes)
 - Removed radius check for task completion check (basically, every rebel, not only those who in task proximity, will recieve paycheck for task completion)
@@ -1140,7 +1140,7 @@
 - Raised base prices for vehicles on vehicle crate (about 25%-40% increase)
 - Removed radio requirement for player markers on map (since it breaks a lot for some reason)
 - Boat spawnpoints have been moved closer to cities to ensure that they will spawn at all
-- Livonia military buildings support (mostly for future Antistasi Plus ports)
+- Livonia military buildings support (mostly for future Antistasi Ukraine ports)
 - UI tweaks
 
 ## 0.4.4

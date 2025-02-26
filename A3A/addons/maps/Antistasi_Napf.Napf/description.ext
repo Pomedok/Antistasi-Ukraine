@@ -13,7 +13,7 @@ class CfgDiscordRichPresence
     defaultDetails="";
     defaultState="";
     defaultLargeImageKey="malden";
-    defaultLargeImageText="Antistasi Plus - Malden Elegy";
+    defaultLargeImageText="Antistasi Ukraine - Malden Elegy";
     defaultSmallImageKey="arma_3_logo";
     defaultSmallImageText="Arma 3 Custom Scenario";
     useTimeElapsed=1;

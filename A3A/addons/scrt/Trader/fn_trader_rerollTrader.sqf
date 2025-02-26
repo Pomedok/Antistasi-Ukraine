@@ -1,4 +1,4 @@
-//	Author: Socrates
+//	Author: Prometey
 // 
 //	Description:
 //	Removes current trader positon, rollbacks variables and assigns new find trader task.

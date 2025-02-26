@@ -1,5 +1,5 @@
 /*
-Maintainer: Socrates
+Maintainer: Prometey
     Sets animation source on already spawn vehicle if it exists. 
 
 Arguments:

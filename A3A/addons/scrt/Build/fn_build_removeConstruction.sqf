@@ -1,6 +1,6 @@
 /*
     Author: 
-        Socrates
+        Prometey
     [Description]
         Removes object from persistent constructions list. That list will be stored in save file.
 

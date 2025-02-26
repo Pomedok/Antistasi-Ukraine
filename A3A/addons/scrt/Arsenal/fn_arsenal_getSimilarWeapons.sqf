@@ -1,4 +1,4 @@
-//	Author: Socrates
+//	Author: Prometey
 //
 //	Description:
 //	Finds all similar weapons using it's base classnames.

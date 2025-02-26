@@ -28,15 +28,15 @@
     //////////////////////////////////////////////////////////////////////////////////
     </-->
             <Key ID="STR_antistasi_mission_info_Altis_mapname_short_text">
-                <Original>Antistasi Plus - Altis Requiem</Original>
-                <Russian>Antistasi Plus - Алт. Реквием</Russian>
-                <Chinesesimp>Antistasi Plus - 阿尔蒂斯安魂曲</Chinesesimp>
+                <Original>Antistasi Ukraine - Altis Requiem</Original>
+                <Russian>Antistasi Ukraine - Алт. Реквием</Russian>
+                <Chinesesimp>Antistasi Ukraine - 阿尔蒂斯安魂曲</Chinesesimp>
                 <Korean>안티스타시 플러스 - 알티스의 진혼곡</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_Altis_mapname_text">
-                <Original>Antistasi Plus - Altis Requiem</Original>
-                <Chinesesimp>Antistasi Plus - 阿尔蒂斯安魂曲</Chinesesimp>
-                <Russian>Antistasi Plus - Реквием по Алтису</Russian>
+                <Original>Antistasi Ukraine - Altis Requiem</Original>
+                <Chinesesimp>Antistasi Ukraine - 阿尔蒂斯安魂曲</Chinesesimp>
+                <Russian>Antistasi Ukraine - Реквием по Алтису</Russian>
                 <Korean>안티스타시 플러스 - 알티스의 진혼곡</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_Altis_description_text">
@@ -106,17 +106,17 @@
                 <Polish>Ponieważ nic nie jest ważniejsze niż Wolność.</Polish>
             </Key>
             <Key ID="STR_antistasi_mission_info_Malden_mapname_short_text">
-                <Original>Antistasi Plus - Malden Elegy</Original>
-                <German>Antistasi Plus - Malden Elegie</German>
-                <Russian>Antistasi Plus - Элегия Малд.</Russian>
-                <Chinesesimp>Antistasi Plus - 马尔登悲歌</Chinesesimp>
+                <Original>Antistasi Ukraine - Malden Elegy</Original>
+                <German>Antistasi Ukraine - Malden Elegie</German>
+                <Russian>Antistasi Ukraine - Элегия Малд.</Russian>
+                <Chinesesimp>Antistasi Ukraine - 马尔登悲歌</Chinesesimp>
                 <Korean>안티스타시 플러스 - 몰든의 애가</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_Malden_mapname_text">
-                <Original>Antistasi Plus - Malden Elegy</Original>
-                <German>Antistasi Plus - Malden Elegie</German>
-                <Russian>Antistasi Plus - Элегия Малдена</Russian>
-                <Chinesesimp>Antistasi Plus - 马尔登悲歌</Chinesesimp>
+                <Original>Antistasi Ukraine - Malden Elegy</Original>
+                <German>Antistasi Ukraine - Malden Elegie</German>
+                <Russian>Antistasi Ukraine - Элегия Малдена</Russian>
+                <Chinesesimp>Antistasi Ukraine - 马尔登悲歌</Chinesesimp>
                 <Korean>안티스타시 플러스 - 몰든의 애가</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_Malden_blurb_text">
@@ -127,17 +127,17 @@
                 <Korean>거주민들을 위한 레프리제.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_sefrouramal_mapname_text">
-                <Original>Antistasi Plus - Sandstorm</Original>
-                <German>Antistasi Plus - Sandsturm</German>
-                <Russian>Antistasi Plus - Песчаная буря</Russian>
-                <Chinesesimp>Antistasi Plus - 沙暴</Chinesesimp>
+                <Original>Antistasi Ukraine - Sandstorm</Original>
+                <German>Antistasi Ukraine - Sandsturm</German>
+                <Russian>Antistasi Ukraine - Песчаная буря</Russian>
+                <Chinesesimp>Antistasi Ukraine - 沙暴</Chinesesimp>
                 <Korean>안티스타시 플러스 - 모래폭풍</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_sefrouramal_mapname_short_text">
-                <Original>Antistasi Plus - Sandstorm</Original>
-                <German>Antistasi Plus - Sandsturm</German>
-                <Russian>Antistasi Plus - Песчаная буря</Russian>
-                <Chinesesimp>Antistasi Plus - 沙暴</Chinesesimp>
+                <Original>Antistasi Ukraine - Sandstorm</Original>
+                <German>Antistasi Ukraine - Sandsturm</German>
+                <Russian>Antistasi Ukraine - Песчаная буря</Russian>
+                <Chinesesimp>Antistasi Ukraine - 沙暴</Chinesesimp>
                 <Korean>안티스타시 플러스 - 모래폭풍</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_sefrouramal_blurb_text">
@@ -148,17 +148,17 @@
                 <Korean>불안은 사막으로부터 다가옵니다.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_esseker_mapname_text">
-                <Original>Antistasi Plus - Collapse</Original>
-                <German>Antistasi Plus - Zusammenbruch</German>
-                <Russian>Antistasi Plus - Крах</Russian>
-                <Chinesesimp>Antistasi Plus - 倒塌</Chinesesimp>
+                <Original>Antistasi Ukraine - Collapse</Original>
+                <German>Antistasi Ukraine - Zusammenbruch</German>
+                <Russian>Antistasi Ukraine - Крах</Russian>
+                <Chinesesimp>Antistasi Ukraine - 倒塌</Chinesesimp>
                 <Korean>안티스타시 플러스 - 붕괴</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_esseker_mapname_short_text">
-                <Original>Antistasi Plus - Collapse</Original>
-                <German>Antistasi Plus - Zusammenbruch</German>
-                <Russian>Antistasi Plus - Крах</Russian>
-                <Chinesesimp>Antistasi Plus - 倒塌</Chinesesimp>
+                <Original>Antistasi Ukraine - Collapse</Original>
+                <German>Antistasi Ukraine - Zusammenbruch</German>
+                <Russian>Antistasi Ukraine - Крах</Russian>
+                <Chinesesimp>Antistasi Ukraine - 倒塌</Chinesesimp>
                 <Korean>안티스타시 플러스 - 붕괴</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_esseker_blurb_text">
@@ -169,17 +169,17 @@
                 <Korean>잃어버린 모든 것을 되찾으십시오.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_chernarus2020_mapname_text">
-                <Original>Antistasi Plus - Harvest Red</Original>
-                <German>Antistasi Plus - Rote Ernte</German>
-                <Russian>Antistasi Plus - Красная жатва</Russian>
-                <Chinesesimp>Antistasi Plus - 蓝色收获</Chinesesimp>
+                <Original>Antistasi Ukraine - Harvest Red</Original>
+                <German>Antistasi Ukraine - Rote Ernte</German>
+                <Russian>Antistasi Ukraine - Красная жатва</Russian>
+                <Chinesesimp>Antistasi Ukraine - 蓝色收获</Chinesesimp>
                 <Korean>안티스타시 플러스 - 빨갱이 수확</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_chernarus2020_mapname_short_text">
-                <Original>Antistasi Plus - Harvest Red</Original>
-                <German>Antistasi Plus - Rote Ernte</German>
-                <Russian>Antistasi Plus - Красная жатва</Russian>
-                <Chinesesimp>Antistasi Plus - 蓝色收获</Chinesesimp>
+                <Original>Antistasi Ukraine - Harvest Red</Original>
+                <German>Antistasi Ukraine - Rote Ernte</German>
+                <Russian>Antistasi Ukraine - Красная жатва</Russian>
+                <Chinesesimp>Antistasi Ukraine - 蓝色收获</Chinesesimp>
                 <Korean>안티스타시 플러스 - 빨갱이 수확</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_chernarus2020_blurb_text">
@@ -190,17 +190,17 @@
                 <Korean>Bardak은 저 밖에 있습니다.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_livonia_mapname_short_text">
-                <Original>Antistasi Plus - Horizon Scan</Original>
-                <German>Antistasi Plus -  Horizontscan</German>
-                <Russian>Antistasi Plus - Ливония</Russian>
-                <Chinesesimp>Antistasi Plus - 扫视地平线</Chinesesimp>
+                <Original>Antistasi Ukraine - Horizon Scan</Original>
+                <German>Antistasi Ukraine -  Horizontscan</German>
+                <Russian>Antistasi Ukraine - Ливония</Russian>
+                <Chinesesimp>Antistasi Ukraine - 扫视地平线</Chinesesimp>
                 <Korean>안티스타시 플러스 - 지평선 경계</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_livonia_mapname_text">
-                <Original>Antistasi Plus - Horizon Scan</Original>
-                <Russian>Antistasi Plus - Сканирование Горизонта</Russian>
-                <German>Antistasi Plus - Horizontscan</German>
-                <Chinesesimp>Antistasi Plus - 扫视地平线</Chinesesimp>
+                <Original>Antistasi Ukraine - Horizon Scan</Original>
+                <Russian>Antistasi Ukraine - Сканирование Горизонта</Russian>
+                <German>Antistasi Ukraine - Horizontscan</German>
+                <Chinesesimp>Antistasi Ukraine - 扫视地平线</Chinesesimp>
                 <Korean>안티스타시 플러스 - 지평선 경계</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_livonia_description_text">
@@ -218,17 +218,17 @@
                 <Korean>"... 그냥 넓게 펼쳐진 들판일 뿐이야."</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_napf_mapname_text">
-                <Original>Antistasi Plus - Amber Insurgency</Original>
-                <German>Antistasi Plus - Bernsteinfarbener Aufstand</German>
-                <Chinesesimp>Antistasi Plus - 黄色叛乱</Chinesesimp>
-                <Russian>Antistasi Plus - Янтарное Восстание</Russian>
+                <Original>Antistasi Ukraine - Amber Insurgency</Original>
+                <German>Antistasi Ukraine - Bernsteinfarbener Aufstand</German>
+                <Chinesesimp>Antistasi Ukraine - 黄色叛乱</Chinesesimp>
+                <Russian>Antistasi Ukraine - Янтарное Восстание</Russian>
                 <Korean>안티스타시 플러스 - 호박색 반란</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_napf_mapname_short_text">
-                <Original>Antistasi Plus - Amber Ins.</Original>
-                <German>Antistasi Plus - Bernst. Aufstand</German>
-                <Russian>Antistasi Plus - Янтар. восст.</Russian>
-                <Chinesesimp>Antistasi Plus - 黄色叛乱</Chinesesimp>
+                <Original>Antistasi Ukraine - Amber Ins.</Original>
+                <German>Antistasi Ukraine - Bernst. Aufstand</German>
+                <Russian>Antistasi Ukraine - Янтар. восст.</Russian>
+                <Chinesesimp>Antistasi Ukraine - 黄色叛乱</Chinesesimp>
                 <Korean>안티스타시 플러스 - 호박색 반란</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_napf_blurb_text">
@@ -239,17 +239,17 @@
                 <Korean>황토는 우리 신발 밑에 있습니다.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_vt7_mapname_text">
-                <Original>Antistasi Plus - Kesäsota</Original>
-                <German>Antistasi Plus - Kesäsota</German>
-                <Russian>Antistasi Plus - Летняя Война</Russian>
-                <Chinesesimp>Antistasi Plus - 夏季战争</Chinesesimp>
+                <Original>Antistasi Ukraine - Kesäsota</Original>
+                <German>Antistasi Ukraine - Kesäsota</German>
+                <Russian>Antistasi Ukraine - Летняя Война</Russian>
+                <Chinesesimp>Antistasi Ukraine - 夏季战争</Chinesesimp>
                 <Korean>안티스타시 플러스 - 여름 전쟁</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_vt7_mapname_short_text">
-                <Original>Antistasi Plus - Kesäsota</Original>
-                <German>Antistasi Plus - Kesäsota</German>
-                <Russian>Antistasi Plus - Летняя Война</Russian>
-                <Chinesesimp>Antistasi Plus - 夏季战争</Chinesesimp>
+                <Original>Antistasi Ukraine - Kesäsota</Original>
+                <German>Antistasi Ukraine - Kesäsota</German>
+                <Russian>Antistasi Ukraine - Летняя Война</Russian>
+                <Chinesesimp>Antistasi Ukraine - 夏季战争</Chinesesimp>
                 <Korean>안티스타시 플러스 - 여름 전쟁</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_vt7_blurb_text">
@@ -265,41 +265,41 @@
                 <Korean>밤은 밝고 게릴라들로 가득합니다.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_vidda_mapname_text">
-                <Original>Antistasi Plus - Nordvakt</Original>
-                <German>Antistasi Plus - Nordvakt</German>
-                <Russian>Antistasi Plus - Северный Дозор</Russian>
-                <Chinesesimp>Antistasi Plus - 北方守卫</Chinesesimp>
+                <Original>Antistasi Ukraine - Nordvakt</Original>
+                <German>Antistasi Ukraine - Nordvakt</German>
+                <Russian>Antistasi Ukraine - Северный Дозор</Russian>
+                <Chinesesimp>Antistasi Ukraine - 北方守卫</Chinesesimp>
                 <Korean>안티스타시 플러스 - 노도박</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_vidda_mapname_short_text">
-                <Original>Antistasi Plus - Nordvakt</Original>
-                <German>Antistasi Plus - Nordvakt</German>
-                <Russian>Antistasi Plus - Северный Дозор</Russian>
-                <Chinesesimp>Antistasi Plus - 北方守卫</Chinesesimp>
+                <Original>Antistasi Ukraine - Nordvakt</Original>
+                <German>Antistasi Ukraine - Nordvakt</German>
+                <Russian>Antistasi Ukraine - Северный Дозор</Russian>
+                <Chinesesimp>Antistasi Ukraine - 北方守卫</Chinesesimp>
                 <Korean>안티스타시 플러스 - 노도박</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_takistan_mapname_text">
-                <Original>Antistasi Plus - Takistan</Original>
-                <Russian>Antistasi Plus - Такистан</Russian>
-                <Chinesesimp>Antistasi Plus - 塔克斯坦</Chinesesimp>
+                <Original>Antistasi Ukraine - Takistan</Original>
+                <Russian>Antistasi Ukraine - Такистан</Russian>
+                <Chinesesimp>Antistasi Ukraine - 塔克斯坦</Chinesesimp>
                 <Korean>안티스타시 플러스 - 타키스탄</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_takistan_mapname_short_text">
-                <Original>Antistasi Plus - Takistan</Original>
-                <Russian>Antistasi Plus - Такистан</Russian>
-                <Chinesesimp>Antistasi Plus - 塔克斯坦</Chinesesimp>
+                <Original>Antistasi Ukraine - Takistan</Original>
+                <Russian>Antistasi Ukraine - Такистан</Russian>
+                <Chinesesimp>Antistasi Ukraine - 塔克斯坦</Chinesesimp>
                 <Korean>안티스타시 플러스 - 타키스탄</Korean>
             </Key>
             <Key ID="STR_isladuala_mission_info_isladuala_mapname_short_text">
-                <Original>Antistasi Plus - Isla Duala</Original>
-                <Russian>Antistasi Plus - Остров Дуала</Russian>
-                <Chinesesimp>Antistasi Plus - Isla Duala</Chinesesimp>
+                <Original>Antistasi Ukraine - Isla Duala</Original>
+                <Russian>Antistasi Ukraine - Остров Дуала</Russian>
+                <Chinesesimp>Antistasi Ukraine - Isla Duala</Chinesesimp>
                 <Korean>안티스타시 플러스 - Isla Duala</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_isladuala_mapname_text">
-                <Original>Antistasi Plus - Isla Duala</Original>
-                <Russian>Antistasi Plus - Остров Дуала</Russian>
-                <Chinesesimp>Antistasi Plus - Isla Duala</Chinesesimp>
+                <Original>Antistasi Ukraine - Isla Duala</Original>
+                <Russian>Antistasi Ukraine - Остров Дуала</Russian>
+                <Chinesesimp>Antistasi Ukraine - Isla Duala</Chinesesimp>
                 <Korean>안티스타시 플러스 - Isla Duala</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_takistan_blurb_text">
@@ -315,15 +315,15 @@
                 <Korean>승리는 우리의 것이 될 것입니다..</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_tanoa_mapname_short_text">
-                <Original>Antistasi Plus - Horizon Islands</Original>
-                <Russian>Antistasi Plus - Острова Горизонта</Russian>
-                <Chinesesimp>Antistasi Plus - 地平线群岛</Chinesesimp>
+                <Original>Antistasi Ukraine - Horizon Islands</Original>
+                <Russian>Antistasi Ukraine - Острова Горизонта</Russian>
+                <Chinesesimp>Antistasi Ukraine - 地平线群岛</Chinesesimp>
                 <Korean>안티스타시 플러스 - 호라이즌 제도</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_tanoa_mapname_text">
-                <Original>Antistasi Plus - Horizon Islands</Original>
-                <Russian>Antistasi Plus - Острова Горизонта</Russian>
-                <Chinesesimp>Antistasi Plus - 地平线群岛</Chinesesimp>
+                <Original>Antistasi Ukraine - Horizon Islands</Original>
+                <Russian>Antistasi Ukraine - Острова Горизонта</Russian>
+                <Chinesesimp>Antistasi Ukraine - 地平线群岛</Chinesesimp>
                 <Korean>안티스타시 플러스 - 호라이즌 제도</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_tanoa_blurb_text">
@@ -333,15 +333,15 @@
                 <Korean>사람들이 젊어서 죽는 직업의 노인들.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_camlaonam_mapname_short_text">
-                <Original>Antistasi Plus - Agent Orange</Original>
-                <Russian>Antistasi Plus - Агент Оранж</Russian>
-                <Chinesesimp>Antistasi Plus - 橙剂</Chinesesimp>
+                <Original>Antistasi Ukraine - Agent Orange</Original>
+                <Russian>Antistasi Ukraine - Агент Оранж</Russian>
+                <Chinesesimp>Antistasi Ukraine - 橙剂</Chinesesimp>
                 <Korean>안티스타시 플러스 - 오렌지 요원</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_camlaonam_mapname_text">
-                <Original>Antistasi Plus - Agent Orange</Original>
-                <Russian>Antistasi Plus - Агент Оранж</Russian>
-                <Chinesesimp>Antistasi Plus - 橙剂</Chinesesimp>
+                <Original>Antistasi Ukraine - Agent Orange</Original>
+                <Russian>Antistasi Ukraine - Агент Оранж</Russian>
+                <Chinesesimp>Antistasi Ukraine - 橙剂</Chinesesimp>
                 <Korean>안티스타시 플러스 - 오렌지 요원</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_camlaonam_blurb_text">
@@ -351,16 +351,16 @@
                 <Korean>좋은 아침입니다, 베트남.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_khesanh_mapname_text">
-                <Original>Antistasi Plus - Battle of Khe Sanh</Original>
-                <Russian>Antistasi Plus - Битва при Кшешани</Russian>
-                <Chinesesimp>Antistasi Plus - 溪生之战</Chinesesimp>
-                <Czech>Antistasi Plus - Bitva u Khe Sanh</Czech>
+                <Original>Antistasi Ukraine - Battle of Khe Sanh</Original>
+                <Russian>Antistasi Ukraine - Битва при Кшешани</Russian>
+                <Chinesesimp>Antistasi Ukraine - 溪生之战</Chinesesimp>
+                <Czech>Antistasi Ukraine - Bitva u Khe Sanh</Czech>
                 <Korean>안티스타시 플러스 - 케산 전투</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_khesanh_mapname_short_text">
-                <Original>Antistasi Plus - Battle of KS</Original>
-                <Russian>Antistasi Plus - Битви при Кшешани</Russian>
-                <Chinesesimp>Antistasi Plus - 溪生之战</Chinesesimp>
+                <Original>Antistasi Ukraine - Battle of KS</Original>
+                <Russian>Antistasi Ukraine - Битви при Кшешани</Russian>
+                <Chinesesimp>Antistasi Ukraine - 溪生之战</Chinesesimp>
                 <Korean>안티스타시 플러스 - 케산 전투</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_khesanh_blurb_text">
@@ -370,15 +370,15 @@
                 <Korean>"이 세상에서 인간 그 자체는 아무것도 아니다. 그리고 이 세계 외에는 다른 세계는 없다." </Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_sehreno_mapname_text">
-                <Original>Antistasi Plus - Unity</Original>
-                <Russian>Antistasi Plus - Единство</Russian>
-                <Chinesesimp>Antistasi Plus - 联盟</Chinesesimp>
+                <Original>Antistasi Ukraine - Unity</Original>
+                <Russian>Antistasi Ukraine - Единство</Russian>
+                <Chinesesimp>Antistasi Ukraine - 联盟</Chinesesimp>
                 <Korean>안티스타시 플러스 - 통일</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_sehreno_mapname_short_text">
-                <Original>Antistasi Plus - Unity</Original>
-                <Russian>Antistasi Plus - Единство</Russian>
-                <Chinesesimp>Antistasi Plus - 联盟</Chinesesimp>
+                <Original>Antistasi Ukraine - Unity</Original>
+                <Russian>Antistasi Ukraine - Единство</Russian>
+                <Chinesesimp>Antistasi Ukraine - 联盟</Chinesesimp>
                 <Korean>안티스타시 플러스 - 통일</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_sehreno_blurb_text">
@@ -388,13 +388,13 @@
                 <Korean>에포니아에는 그런 건 없습니다.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_weferlingen_mapname_text">
-                <Original>Antistasi Plus - Code Red</Original>
-                <Russian>Antistasi Plus - Код Красный</Russian>
+                <Original>Antistasi Ukraine - Code Red</Original>
+                <Russian>Antistasi Ukraine - Код Красный</Russian>
                 <Korean>안티스타시 플러스 - 코드 레드</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_weferlingen_mapname_short_text">
-                <Original>Antistasi Plus - Code Red</Original>
-                <Russian>Antistasi Plus - Код Красный</Russian>
+                <Original>Antistasi Ukraine - Code Red</Original>
+                <Russian>Antistasi Ukraine - Код Красный</Russian>
                 <Korean>안티스타시 플러스 - 코드 레드</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_weferlingen_blurb_text">
@@ -403,12 +403,12 @@
                 <Korean>국경을 넘는 것이 그렇게 쉬운 적은 없었습니다.</Korean>
             </Key>
             <Key ID="STR_antistasi_mission_info_sumava_mapname_text">
-                <Original>Antistasi Plus - Šumava</Original>
-                <Russian>Antistasi Plus - Čумава</Russian>
+                <Original>Antistasi Ukraine - Šumava</Original>
+                <Russian>Antistasi Ukraine - Čумава</Russian>
             </Key>
             <Key ID="STR_antistasi_mission_info_sumava_mapname_short_text">
-                <Original>Antistasi Plus - Šumava</Original>
-                <Russian>Antistasi Plus - Čумава</Russian>
+                <Original>Antistasi Ukraine - Šumava</Original>
+                <Russian>Antistasi Ukraine - Čумава</Russian>
             </Key>
             <Key ID="STR_antistasi_mission_info_sumava_blurb_text">
                 <Original>The entire country is counting on us and they don't even know it.</Original>
