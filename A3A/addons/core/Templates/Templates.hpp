@@ -325,7 +325,7 @@ class Templates
 
     class RHS_Base : Base
     {
-        requiredAddons[] = {"rhsgref_main", "rhssaf_c_vehicles", "rhs_c_tanks", "RHS_US_A2Port_Armor"};
+        requiredAddons[] = {"rhsgref_main"};
         basepath = QPATHTOFOLDER(Templates\Templates\RHS);
         logo = "\rhsusf\addons\rhsusf_main\data\rhs_logo_ca.paa";
         priority = 30;
