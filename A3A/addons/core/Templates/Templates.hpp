@@ -332,6 +332,103 @@ class Templates
         equipFlags[] = {"specialRHS"};
     };
 
+    class RHS_AFRF_Arid : RHS_Base
+    {
+        side = "Inv";
+        flagTexture = "rhsafrf\addons\rhs_main\data\flag_rus_co.paa";
+        logo = "\rhsafrf\addons\rhs_main\data\rhs_logo_ca.paa";
+        name = "RHS AFRF Arid";
+        file = "RHS_AI_AFRF_Arid";
+        climate[] = {"arid"};
+        shortName = "AFRF";
+        description = $STR_A3A_templates_lore_AFRF;
+    };
+    class RHS_AFRF_Temperate : RHS_AFRF_Arid
+    {
+        name = "RHS AFRF Temperate";
+        file = "RHS_AI_AFRF_Temperate";
+        climate[] = {"temperate","tropical","arctic"};
+    };
+
+    class RHS_VDV_Temperate : RHS_Base
+    {
+        side = "Inv"; 
+        flagTexture = "rhsafrf\addons\rhs_main\data\Flag_vdv_CO.paa"; 
+        name = "RHS VDV Temperate"; 
+        file = "RHS_AI_VDV_Temperate"; 
+        climate[] = {"temperate","tropical","arctic"};
+        logo = "\rhsafrf\addons\rhs_main\data\rhs_logo_ca.paa";
+        shortName = "VDV";
+        description = $STR_A3A_templates_lore_VDV;
+    };
+
+    class RHS_VDV_Arid : RHS_VDV_Temperate
+    {
+        name = "RHS VDV Arid"; 
+        file = "RHS_AI_VDV_Arid"; 
+        climate[] = {"arid"};
+    };
+
+    class RHS_HIDF : RHS_Base
+    {
+        side = "Occ";
+        flagTexture = "\A3\Data_F_Exp\Flags\flag_GEN_CO.paa";
+        name = "RHS HIDF";
+        file = "RHS_AI_HIDF";
+        logo = "\rhsgref\addons\rhsgref_main\data\rhs_logo_ca.paa";
+        shortName = "HIDF";
+        description = $STR_A3A_templates_lore_3CB_AI_HIDF;
+    };
+
+
+    class RHS_SAF_Base
+    {
+        requiredAddons[] = {"rhssaf_main"};
+        basepath = QPATHTOFOLDER(Templates\Templates\RHS);
+        logo = "\rhssaf\addons\rhssaf_main\data\rhs_logo_ca.paa";
+        priority = 30;
+    };
+    class RHS_SAF : RHS_SAF_Base
+    {
+        side = "Inv";
+        flagTexture = "rhssaf\addons\rhssaf_main\data\flags\flag_serbia_co.paa";
+        name = "RHS SAF";
+        file = "RHS_AI_SAF";
+        shortName = "SAF";
+        description = $STR_A3A_templates_lore_RHS_AI_SAF;
+    };
+
+    class RHS_USAF_Army_Arid : RHS_Base
+    {
+        side = "Occ";
+        flagTexture = "a3\data_f\flags\flag_us_co.paa";
+        name = "RHS US Army Arid";
+        file = "RHS_AI_USAF_Army_Arid";
+        climate[] = {"arid"};
+        shortName = "US Army";
+        description = $STR_A3A_templates_lore_USAF;
+    };
+    class RHS_USAF_Army_Temperate : RHS_USAF_Army_Arid
+    {
+        name = "RHS US Army Temperate";
+        file = "RHS_AI_USAF_Army_Temperate";
+        climate[] = {"temperate","tropical","arctic"};
+    };
+    class RHS_USAF_Marines_Arid : RHS_USAF_Army_Arid
+    {
+        name = "RHS USMC Arid";
+        file = "RHS_AI_USAF_Marines_Arid";
+        shortName = "US Marines";
+        description = $STR_A3A_templates_lore_USMC;
+    };
+    class RHS_USAF_Marines_Temperate : RHS_USAF_Army_Temperate
+    {
+        name = "RHS USMC Temperate";
+        file = "RHS_AI_USAF_Marines_Temperate";
+    };
+
+
+    // =================================== OLD RHS ==================================================================
     class RHS_NAPA : RHS_Base
     {
         side = "Reb";

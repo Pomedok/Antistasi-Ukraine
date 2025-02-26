@@ -278,6 +278,30 @@
                 <Chinesesimp>Ukraine</Chinesesimp>
                 <Korean>Ukraine</Korean>
             </Key>
+            <Key ID="STR_A3A_templates_lore_AFRF">
+                <Original>The Armed Forces of the Russian Federation are the current-age Russian Army. Equipping a variety of cutting edge and Cold-War era vehicles, the AFRF typically use homegrown AK assault rifles chambered in 5.45 and 7.62 calibers.</Original>
+                <Russian>Вооруженные силы Российской Федерации - это современная российская армия. Оснащенные разнообразной новейшей техникой времен холодной войны, ВС РФ обычно используют отечественные автоматы АК калибров 5,45 и 7,62.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_VDV">
+                <Original>The Russian Air Forces fill a vital gap in the AFRF's capability of cohesive aerial assaults. They typically use standard issue Russian equipment, but their vehicles and gear are modified to be more lightweight for ease of aerial operations.</Original>
+                <Russian>Российские ВВС заполняют жизненно важный пробел в возможностях ВСРФ по проведению сплоченных воздушных десантов. Как правило, они используют стандартное российское оборудование, но их машины и снаряжение модифицированы для облегчения воздушных операций.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_3CB_AI_HIDF">
+                <Original>The Horizon Island Defense Force are the small military force defending the Pacific island of Tanoa. They typically use Vietnam-war era and similar US gear, rounded with a variety of imported European weapons and vehicles.</Original>
+                <Russian>Силы обороны острова Горизонт - это небольшие военные силы, защищающие тихоокеанский остров Таноа. Как правило, они используют американское снаряжение времен Вьетнамской войны и аналогичное, а также разнообразное импортное европейское оружие и транспортные средства.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_RHS_AI_SAF">
+                <Original>The Serbian Armed Forces used to primarily use Soviet equipment, but have since diversified their arsenal after the fall of the Soviet Union. They often wield the HK G36, and commonly use American Humvees along with a host of more modern Russian vehicles.</Original>
+                <Russian>Раньше сербские вооруженные силы использовали в основном советскую технику, но после распада Советского Союза их арсенал стал более разнообразным. Они часто используют HK G36 и американские "Хаммеры", а также множество более современных российских машин.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_USAF">
+                <Original>The United States Army are one of the world's most dangerous military superpowers, with their alliance to NATO making them a difficult threat. They typically produce and use a substantial amount of NATO weaponry, including 5.56 STANAG and 7.62 calibers.</Original>
+                <Russian>Армия Соединенных Штатов - одна из самых опасных военных сверхдержав в мире, а их союз с НАТО делает их сложной угрозой. Как правило, они производят и используют значительное количество оружия НАТО, включая калибры 5,56 STANAG и 7,62.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_USMC">
+                <Original>The United States Marine Corps are the primary branch of the US military deployed overseas. They retain the same lethality as their domestic counterparts, with equipment fitted for operating on the high seas. Their small arms are predominantly the same as the standard US Army.</Original>
+                <Russian>Корпус морской пехоты США - основное подразделение вооруженных сил США, развернутое за рубежом. Они сохраняют ту же смертоносность, что и их отечественные коллеги, а их снаряжение приспособлено для действий в открытом море. Их стрелковое оружие в основном такое же, как и в армии США.</Russian>
+            </Key>
             <Key ID="STR_A3AP_setupFactionsTab_napa_3cbf">
                 <Original>National Party (NAPA).\nSomeone have to test how much farther you can get with Panzerfausts and stick hand grenades.</Original>
                 <Russian>Национальная Партия (NAPA).\nКто-то должен проверить, насколько далеко можно зайти, используя лишь Панцерфаусты и старые гранаты с рукоятями.</Russian>
