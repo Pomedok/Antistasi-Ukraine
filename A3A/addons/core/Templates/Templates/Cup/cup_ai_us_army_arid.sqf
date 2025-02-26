@@ -3,7 +3,7 @@
 //////////////////////////
 
 ["name", "US Army"] call _fnc_saveToTemplate;
-["spawnMarkerName", "US support corridor"] call _fnc_saveToTemplate;
+["spawnMarkerName", format [localize "STR_supportcorridor", "US Army"]] call _fnc_saveToTemplate;
 
 ["flag", "Flag_US_F"] call _fnc_saveToTemplate;
 ["flagTexture", "a3\data_f\flags\flag_us_co.paa"] call _fnc_saveToTemplate;

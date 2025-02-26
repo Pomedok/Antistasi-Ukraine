@@ -10,7 +10,7 @@
 
 ["vehiclesBasic", ["UK3CB_NAP_I_YAVA", "b_afougf_quadbike_01"]] call _fnc_saveToTemplate;
 ["vehiclesLightUnarmed", ["b_afougf_yt_m1152_base"]] call _fnc_saveToTemplate;
-["vehiclesLightArmed", ["b_afougf_kozak5_turret_armored_F"]] call _fnc_saveToTemplate;
+["vehiclesLightArmed", ["b_afougf_kozak5_turret_armored_F", "CUP_B_nM1151_ogpk_mk19_AFU", "CUP_B_nM1151_ogpk_m2_DF_AFU", "CUP_B_nM1151_ogpk_m2_AFU"]] call _fnc_saveToTemplate;
 ["vehiclesTruck", ["UA_2020_CUP_KRAZ_6322_BORT"]] call _fnc_saveToTemplate;
 ["vehiclesAT", ["UA_2020_cup_Hilux_metis_01"]] call _fnc_saveToTemplate;
 ["vehiclesAA", ["UA_2020_cup_Hilux_zu23_01"]] call _fnc_saveToTemplate;
@@ -94,7 +94,7 @@
     ["UK3CB_I_G_BRDM2_ATGM", 3500, "CAR", {tierWar > 3}],
     ["UA_2020_cup_HMMWV_AGS_01", 2500, "CAR", {tierWar > 2}],
 
-    ["b_afougf_old_gaz66_ammo", 3000, "CAR", {tierWar > 3}],
+    ["CUP_B_Ural_Reammo_AFU", 3000, "CAR", {tierWar > 3}],
     ["CUP_B_Ural_Repair_AFU", 3000, "CAR", {tierWar > 3}],
     ["UA_2020_CUP_KRAZ_6322_PALN", 3000, "CAR", {tierWar > 3}],
 

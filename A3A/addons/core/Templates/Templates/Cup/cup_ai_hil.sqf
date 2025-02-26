@@ -3,7 +3,7 @@
 //////////////////////////
 
 ["name", "HIL"] call _fnc_saveToTemplate;
-["spawnMarkerName", "HIL support corridor"] call _fnc_saveToTemplate;
+["spawnMarkerName", format [localize "STR_supportcorridor", "HIL"]] call _fnc_saveToTemplate;
 
 ["flag", "Flag_NATO_F"] call _fnc_saveToTemplate;
 ["flagTexture", "a3\data_f_exp\flags\flag_tanoa_co.paa"] call _fnc_saveToTemplate;
@@ -45,10 +45,9 @@
 ["vehiclesHelisLightAttack", ["CUP_B_AW159_HIL","CUP_B_412_Military_Armed_AT_HIL","CUP_B_412_Military_Armed_HIL","CUP_B_412_dynamicLoadout_HIL"]] call _fnc_saveToTemplate;
 ["vehiclesHelisAttack", ["CUP_B_AH1Z_Dynamic_USMC"]] call _fnc_saveToTemplate;
 
-["vehiclesArtillery", ["CUP_B_M270_HE_HIL", "CUP_B_M270_DPICM_HIL"]] call _fnc_saveToTemplate;
+["vehiclesArtillery", ["CUP_B_M270_HE_HIL"]] call _fnc_saveToTemplate;
 ["magazines", createHashMapFromArray [
-["CUP_B_M270_HE_HIL", ["CUP_12Rnd_MLRS_HE"]],
-["CUP_B_M270_DPICM_HIL", ["CUP_12Rnd_MLRS_DPICM"]]
+["CUP_B_M270_HE_HIL", ["CUP_12Rnd_MLRS_HE"]]
 ]] call _fnc_saveToTemplate;
 
 ["uavsAttack", ["CUP_B_USMC_DYN_MQ9"]] call _fnc_saveToTemplate;

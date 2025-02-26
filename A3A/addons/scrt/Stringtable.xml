@@ -278,6 +278,58 @@
                 <Chinesesimp>Ukraine</Chinesesimp>
                 <Korean>Ukraine</Korean>
             </Key>
+             <Key ID="STR_A3A_templates_lore_BAF">
+                <Original>The British Armed Forces have quite the history, and their unique assortment of weaponry and equipment clearly shows it. They typically use the L85 series of assault rifles, chambered in 5.56 NATO.</Original>
+                <Russian>Британские вооруженные силы имеют богатую историю, о чем ярко свидетельствует их уникальный ассортимент оружия и снаряжения. Как правило, они используют штурмовые винтовки серии L85 под патрон 5,56 НАТО.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_CUP_AI_RACS">
+                <Original>The Royal Army Corps of Sahrani use a variety of NATO and U.S. vehicles and weaponry, with some diversity depending on individual preference, often including versions of the FN FAL or HK G36.</Original>
+                <Russian>Королевский армейский корпус Сахрани использует различные транспортные средства и вооружение НАТО и США, с некоторым разнообразием в зависимости от индивидуальных предпочтений, часто включая версии FN FAL или HK G36.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_CDF">
+                <Original>The Chernarus Defense Force are the culmination of the land, air, and sea branches dedicated to the defense of Chernarus. They typically use a variety of surplus Russian weaponry, but have cut all ties with the previous government. They are the primary counter-insurgency force against the ChDKZ.</Original>
+                <Russian>Силы обороны Чернаруса - это совокупность наземных, воздушных и морских подразделений, занимающихся обороной Чернаруса. Как правило, они используют различные излишки российского оружия, но разорвали все связи с предыдущим правительством. Они являются основной противоповстанческой силой в борьбе с ЧДКЗ.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_CUP_AI_SLA">
+                <Original>The Sahrani Liberation Army are a group that opposes the Western support of the current government and has successfully acquired assets from a variety of Eastern nations to execute a violent coup in Sahrani. They use a wide variety of AK-pattern rifles.</Original>
+                <Russian>Освободительная армия Сахрани - группа, выступающая против поддержки Западом нынешнего правительства, которая успешно приобрела активы у различных восточных стран, чтобы совершить насильственный переворот в Сахрани. Они используют широкий спектр автоматов типа АК.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_CUP_AI_TKA">
+                <Original>The Takistani Army maintains a healthy stockpile of Soviet-era equipment and small arms after the end of official Soviet occupation. Their arsenal is rounded out with the occaisonal foreign rifle, such as the FAL 50.61.</Original>
+                <Russian>После окончания официальной советской оккупации армия Такистана сохранила значительные запасы советского снаряжения и стрелкового оружия. Их арсенал пополняется редкой иностранной винтовкой, например FAL 50.61.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_ION">
+                <Original>Ruthless and willing to do anything for a quick buck, the private military corporation of ION Services, Incorporated and it's diverse set of contractors believe every job has a reasonable price. The company buys assets in bulk for dirt-cheap, and there is no standard-issue rifle.</Original>
+                <Russian>Безжалостная и готовая на все ради быстрой наживы частная военная корпорация ION Services, Incorporated и ее разнообразные подрядчики считают, что у каждой работы есть разумная цена. Компания закупает имущество оптом и по дешевке, а стандартных винтовок не существует.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_CUP_AI_BW">
+                <Original>The Bundesweher are the current armed forces for Germany. They frequently use domestically produced rifles, such as the G36, HK416, and HK417 for small arms. Their armored units are rounded out with many NATO and U.S. produced vehicles.</Original>
+                <Russian>Бундесвер - это действующие вооруженные силы Германии. В качестве стрелкового оружия они часто используют винтовки отечественного производства, такие как G36, HK416 и HK417. Их бронетанковые подразделения укомплектованы многими машинами производства НАТО и США.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_TKM">
+                <Original>The Takistani militia is an unexpectedly well-armed group of civilians who hold a significant opposition to the foreign occupation and support the acting government is attempting to use to bolster its ranks. They use a variety of scavenged weapons, commonly relying on bolt-action rifles.</Original>
+                <Russian>Такистанское ополчение - неожиданно хорошо вооруженная группа гражданских лиц, выступающих против иностранной оккупации и поддержки, которую действующее правительство пытается использовать для укрепления своих рядов. Они используют разнообразное оружие, добытое в мусорных баках, в основном полагаясь на винтовки с продольно-скользящим затвором.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_CUP_AI_HIL">
+                <Original>The Horizon Island Legion are the small military force defending the Pacific island of Tanoa. They typically use Gulf-war era and similar US gear, rounded with a variety of imported European weapons and vehicles and a substantial amount of Vietnam-era small arms.</Original>
+                <Russian>Легион острова Горизонт - небольшая военная сила, защищающая тихоокеанский остров Таноа. Как правило, они используют американское снаряжение времен войны в Персидском заливе и аналогичное, дополненное различными видами импортного европейского оружия и транспортных средств, а также значительным количеством стрелкового оружия вьетнамской эпохи.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_NAPA">
+                <Original>The National Party formed as a civilian militia during the civil war between the CDF and the ChDKZ. As the territory was previously part of the Soviet Union, NAPA uses weapons it can steal from either Russian-backed force, but many militiamen fall back on the commonly available Kar98K.</Original>
+                <Russian>Национальная партия сформировалась как гражданское ополчение во время гражданской войны между ХДС и ЧДКЗ. Поскольку территория ранее входила в состав Советского Союза, НАПА использует оружие, которое она может украсть у любой из поддерживаемых Россией сил, но многие ополченцы предпочитают использовать общедоступный Kar98K.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_TKC">
+                <Original>The remainder of the civilians who were unable to evacuate the combat zone, the Takistani civilians are always on alert and have learned not to trust anyone. Make sure you restore peace to their lands.</Original>
+                <Russian>Оставшиеся мирные жители, которые не смогли эвакуироваться из зоны боевых действий, - такистанцы всегда начеку и научились никому не доверять. Убедитесь, что вы восстановили мир на их землях.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_CHC">
+                <Original>The civilians of Chernarus already have enough on their plate with the active civil war in their home country. It's your job to end the rule of the corrupt government over these people's lives.</Original>
+                <Russian>У мирных жителей Чернаруса и так хватает забот из-за активной гражданской войны в их родной стране. Ваша задача - положить конец господству коррумпированного правительства над жизнью этих людей.</Russian>
+            </Key>
+            <Key ID="STR_A3A_templates_lore_ACR">
+                <Original>The Army of the Czech Republic, as a landlocked country, primarily focuses on it's Air Force and ground forces. Many of the weapons the ACR use are standard NATO-issue, but they tend to diversify with a variety of homegrown weapons, such as the vz. 58 or CZ BREN.</Original>
+                <Russian>Армия Чешской Республики, как страны, не имеющей выхода к морю, в первую очередь ориентирована на ВВС и сухопутные войска. Многие виды оружия, используемые ACR, являются стандартным оружием НАТО, но они склонны к разнообразию, используя различные виды отечественного оружия, такие как vz. 58 или CZ BREN.</Russian>
+            </Key>
             <Key ID="STR_A3A_templates_lore_AFRF">
                 <Original>The Armed Forces of the Russian Federation are the current-age Russian Army. Equipping a variety of cutting edge and Cold-War era vehicles, the AFRF typically use homegrown AK assault rifles chambered in 5.45 and 7.62 calibers.</Original>
                 <Russian>Вооруженные силы Российской Федерации - это современная российская армия. Оснащенные разнообразной новейшей техникой времен холодной войны, ВС РФ обычно используют отечественные автоматы АК калибров 5,45 и 7,62.</Russian>

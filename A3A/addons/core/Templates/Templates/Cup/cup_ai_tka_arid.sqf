@@ -3,7 +3,7 @@
 //////////////////////////
 
 ["name", "TKA"] call _fnc_saveToTemplate;
-["spawnMarkerName", "TKA Support Corridor"] call _fnc_saveToTemplate;
+["spawnMarkerName", format [localize "STR_supportcorridor", "TKA"]] call _fnc_saveToTemplate;
 
 ["flag", "Flag_NATO_F"] call _fnc_saveToTemplate;
 ["flagTexture", "cup\baseconfigs\cup_baseconfigs\data\flags\flag_tka_co.paa"] call _fnc_saveToTemplate;

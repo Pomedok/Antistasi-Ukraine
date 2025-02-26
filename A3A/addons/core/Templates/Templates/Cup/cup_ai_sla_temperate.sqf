@@ -3,7 +3,7 @@
 //////////////////////////
 
 ["name", "SLA"] call _fnc_saveToTemplate;
-["spawnMarkerName", "SLA Support Corridor"] call _fnc_saveToTemplate;
+["spawnMarkerName", format [localize "STR_supportcorridor", "SLA"]] call _fnc_saveToTemplate;
 
 ["flag", "Flag_NATO_F"] call _fnc_saveToTemplate;
 ["flagTexture", "cup\baseconfigs\cup_baseconfigs\data\flags\flag_sla_co.paa"] call _fnc_saveToTemplate;

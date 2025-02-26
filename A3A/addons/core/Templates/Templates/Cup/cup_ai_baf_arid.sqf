@@ -3,7 +3,7 @@
 //////////////////////////
 
 ["name", "BAF"] call _fnc_saveToTemplate;
-["spawnMarkerName", "BAF support corridor"] call _fnc_saveToTemplate;
+["spawnMarkerName", format [localize "STR_supportcorridor", "BAF"]] call _fnc_saveToTemplate;
 
 ["flag", "Flag_UK_F"] call _fnc_saveToTemplate;
 ["flagTexture", "\A3\Data_F\Flags\flag_uk_co.paa"] call _fnc_saveToTemplate;
